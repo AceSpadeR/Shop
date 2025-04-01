@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-skincare-dev-8b2d6-authRole",
+      "UnauthRoleArn": "arn:aws:iam::135808919581:role/amplify-skincare-dev-8b2d6-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::135808919581:role/amplify-skincare-dev-8b2d6-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-skincare-dev-8b2d6-deployment",
+      "UnauthRoleName": "amplify-skincare-dev-8b2d6-unauthRole",
+      "StackName": "amplify-skincare-dev-8b2d6",
+      "StackId": "arn:aws:cloudformation:us-east-1:135808919581:stack/amplify-skincare-dev-8b2d6/f0b7f580-0f30-11f0-970f-0affdbff7db9",
+      "AmplifyAppId": "d1nvkccnhd5jyx"
+    }
+  }
+}
